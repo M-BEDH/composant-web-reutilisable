@@ -67,6 +67,7 @@ class Carousel extends HTMLElement {
           padding: 0.2rem 0.5rem;
           font-size: 1rem;
           border-radius: 5px;
+          border: 1px solid grey;
         }
         button:hover {
           background-color:#f7c8de;
